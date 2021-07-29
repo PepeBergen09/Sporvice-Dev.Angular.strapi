@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.contact_button {
+  background: #1874c1;
+  color: #fff;
+  font-family: 'RobotoMedium';
+  height: 70px;
+  width: 150px;
+  margin: auto;
+
+}
+
+.contact_button a{
+  color: #fff;
+  text-transform: uppercase;
+  display: block;
+  padding: 24px 38px;
+  text-decoration: none;
+}
+
+.contact_button a:hover{
+  background-color: #0060b1;
+}

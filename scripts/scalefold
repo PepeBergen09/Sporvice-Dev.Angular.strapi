@@ -1,0 +1,8 @@
+ng g application website --routing --style=scss
+
+
+
+
+
+
+ng g application admincms --routing --style=scss
